@@ -13,7 +13,7 @@ O projeto utiliza as seguintes tecnologias:
 
 ## 🔗 Acesso ao Projeto
 
-- Acessar a versão hospedada do Projeto por [aqui](insira_o_link_do_projeto_hospedado).
+- Acessar a versão hospedada do Projeto por [aqui](https://anayukimoto.github.io/devLinks/).
 
 - Acessar a versão Figma do projeto por [aqui](https://www.figma.com/file/u5mQUJkz1Vetny6k8vJOW1/DevLinks-%E2%80%A2-Projeto-Discover-(Ana-Yukimoto)?type=design&node-id=10%3A620&mode=design&t=2D43hXkMFFzd1AHO-1).
 
