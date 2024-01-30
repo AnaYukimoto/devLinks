@@ -2,7 +2,8 @@ function toggleMode() {
     const html = document.documentElement
     html.classList.toggle('light')
 
-    /*if(body.classList.contains('light')){
+    /*outra opção de fazer
+    if(body.classList.contains('light')){
         html.classList.remove('light')
     }
     else{
@@ -10,7 +11,7 @@ function toggleMode() {
     }*/
 
 
-    //subtituir a img 
+    /*subtituir a img 
     const img = document.querySelector("#profile img")
     
     if(html.classList.contains("light")){
@@ -18,5 +19,5 @@ function toggleMode() {
     }
     else{
         img.setAttribute("src", "./assets/avatar.png")
-    }
+    }*/
 }
